@@ -1,0 +1,7 @@
+datasets/
+runs/
+yolo11n.pt
+yolo11s.pt
+weights/yolo26n.pt
+__pycache__/
+*.pyc

@@ -1,0 +1,14 @@
+path: C:/Users/pabir/multi_anomaly_yolo/datasets/combined
+
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: pothole
+  1: crack
+  2: trash
+  3: rock
+  4: tree
+  5: branch
+  6: light_pole
